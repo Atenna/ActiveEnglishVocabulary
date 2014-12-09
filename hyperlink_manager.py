@@ -3,6 +3,7 @@ __author__ = 'akvi'
 
 from Tkinter import *
 
+
 class HyperlinkManager:
 
     def __init__(self, text):

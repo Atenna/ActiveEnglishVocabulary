@@ -1,6 +1,8 @@
 import sys
 import json
 import re
+import hyperlink_manager
+import webbrowser
 
 from Tkinter import *
 
@@ -21,6 +23,7 @@ def process_data():
     # initialize a dictionary for new unknown words
     unknown = {} 
     sum_words = 0
+    sentence = []
 
     # loop over the file with tweets
     for tweet in tweet_file: 
@@ -39,11 +42,11 @@ def process_data():
             sum_words += 1
             unknown[word] = unknown.get(word, 0) + 1
 
-    for key, value in unknown.items():
-        if (isinstance(value, int) and 
-            len(key) != 0 and key != "\n" and 
-            key != " " and value != None):
-            print key.encode('utf8'), (value/(sum_words*(0.0005)))
+    # for key, value in unknown.items():
+    #     if (isinstance(value, int) and
+    #         len(key) != 0 and key != "\n" and
+    #         key != " " and value != None):
+    #         print key.encode('utf8'), (value/(sum_words*(0.0005)))
 
 
 def lines(fp):
@@ -63,10 +66,14 @@ def write_to_file():
     text_file.close()
 
 
-def calculate_sentiment(tweet):
-    """Method to calculate sentiment of a tweet"""
+def calculate_sentiment(tweet, scores):
+    """Method to calculate sentiment of a tweet
+
+        tweet is text almost in json format
+        scores is dictionary of word- sentiment scores"""
     dic = json.loads(tweet)
     coef = 0
+    sentence = ""
     if 'text' in dic.keys():
         textp = dic['text']
         sentence = textp.split(" ")
@@ -79,6 +86,7 @@ def calculate_sentiment(tweet):
 
 def gui():
     """User interface function"""
+
     root = Tk() # create the window
     root.title("Frequency of English Words Used on Twitter")
     root.geometry("500x300")
@@ -86,15 +94,21 @@ def gui():
     label = Label(app, text = "n words most used in English vocabulary")
     app.grid() # to make app visible
     label.grid()
-    button1 = Button(app, text = "Find")
-    button2 = Button(app)
-    button1.grid()
-    button2.grid()
-    button2.configure(text = "Close")
-    button3 = Button(app)
+    # button1 = Button(app, text = "Find")
+    # button2 = Button(app)
+    # button1.grid()
+    # button2.grid()
+    # button2.configure(text = "Close")
+
+    url = "http://google.sk"
+
+    def open_url():
+        webbrowser.open_new(url)
+
+    button3 = Button(app, text = "See in dictionary", command = open_url)
     button3.grid()
-    button3["text"] = "Find translations"
-    root.mainloop()
+
+    mainloop()
 
 
 def main():
