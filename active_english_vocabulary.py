@@ -12,6 +12,7 @@ tweet_file = 0
 unknown = 0
 sum_words = 0
 
+
 def process_data():
     """Convert Twitter stream into dictionary of word - frequency pair"""
     global unknown
@@ -28,15 +29,15 @@ def process_data():
         # coef = calculate_sentiment(tweet) - not used now
         # check for language
         if 'text' in dic.keys() and dic['lang'] == 'en': 
-            textp = dic['text']
+            text = dic['text']
             # split the tweet by spaces
-            sentence = textp.split(' ') 
- 	    for word in sentence:
-       	        word = word.lower() 
-	        word = re.sub('[^a-z]', "", word)	
-                # increment absolute amount of this term
-                sum_words = sum_words + 1 
-       	        unknown[word] = unknown.get(word, 0) + 1
+            sentence = text.split(' ')
+        for word in sentence:
+            word = word.lower()
+            word = re.sub('[^a-z]', "", word)
+            # increment absolute amount of this term
+            sum_words += 1
+            unknown[word] = unknown.get(word, 0) + 1
 
     for key, value in unknown.items():
         if (isinstance(value, int) and 
@@ -44,8 +45,10 @@ def process_data():
             key != " " and value != None):
             print key.encode('utf8'), (value/(sum_words*(0.0005)))
 
+
 def lines(fp):
     print str(len(fp.readlines()))
+
 
 def write_to_file():
     """Loop over dictionary sorted by frequency and write to file"""
@@ -54,10 +57,11 @@ def write_to_file():
     d_view.sort(reverse=True)
     for v,k in d_view:
         if k != "":
-	    text_file.write("%s: %d \t" % (k,v))
-	    text_file.write("http://slovnik.azet.sk/preklad/anglicko-slovensky/?q="+k)
-	    text_file.write("\n")
+            text_file.write("%s: %d \t" % (k,v))
+            text_file.write("http://slovnik.azet.sk/preklad/anglicko-slovensky/?q="+k)
+            text_file.write("\n")
     text_file.close()
+
 
 def calculate_sentiment(tweet):
     """Method to calculate sentiment of a tweet"""
@@ -67,11 +71,11 @@ def calculate_sentiment(tweet):
         textp = dic['text']
         sentence = textp.split(" ")
         for word in sentence:
-	    word = word.lower()	
-	
-	    if word in scores: 
-	        coef = coef + scores.get(word, 0)
+            word = word.lower()
+            if word in scores:
+                coef = coef + scores.get(word, 0)
     return coef
+
 
 def gui():
     """User interface function"""
@@ -91,6 +95,8 @@ def gui():
     button3.grid()
     button3["text"] = "Find translations"
     root.mainloop()
+
+
 def main():
 
     global tweet_file
