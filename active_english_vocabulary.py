@@ -1,3 +1,4 @@
+from numpy.lib.function_base import select
 import sys
 import json
 import re
@@ -11,15 +12,37 @@ from Tkinter import *
 # http://www.talkenglish.com/Vocabulary/Top-2000-Vocabulary.aspx compare
 
 tweet_file = 0
-unknown = 0
+unknown = {}
 sum_words = 0
+url = ""
+btn_dict = []
+
+class ActiveEnglishVocabulary(Frame):
+
+    btn_dict = unknown
+    button = []
+    global url
+    url = "http://slovnik.azet.sk/preklad/anglicko-slovensky/?q=word"
+
+    def __init__(self, master):
+        """ Initialize the Frame. """
+        Frame.__init__(self, master)
+        self.grid()
+        self.create_widgets()
+
+    def create_widgets(self):
+        """ Create buttons for words to open their translation in browser. """
+        self.button1 = Button(self, text = "See in dictionary WORD", command=self.open_url)
+        self.button1.grid()
+
+    def open_url(self):
+        webbrowser.open_new(url)
 
 
 def process_data():
     """Convert Twitter stream into dictionary of word - frequency pair"""
     global unknown
-    global sum_words
-    global unknown
+    #global sum_words
     # initialize a dictionary for new unknown words
     unknown = {} 
     sum_words = 0
@@ -41,12 +64,6 @@ def process_data():
             # increment absolute amount of this term
             sum_words += 1
             unknown[word] = unknown.get(word, 0) + 1
-
-    # for key, value in unknown.items():
-    #     if (isinstance(value, int) and
-    #         len(key) != 0 and key != "\n" and
-    #         key != " " and value != None):
-    #         print key.encode('utf8'), (value/(sum_words*(0.0005)))
 
 
 def lines(fp):
@@ -83,41 +100,14 @@ def calculate_sentiment(tweet, scores):
                 coef = coef + scores.get(word, 0)
     return coef
 
-
-def gui():
-    """User interface function"""
-
-    root = Tk() # create the window
-    root.title("Frequency of English Words Used on Twitter")
-    root.geometry("500x300")
-    app = Frame(root); # creates a frame for widgets
-    label = Label(app, text = "n words most used in English vocabulary")
-    app.grid() # to make app visible
-    label.grid()
-    # button1 = Button(app, text = "Find")
-    # button2 = Button(app)
-    # button1.grid()
-    # button2.grid()
-    # button2.configure(text = "Close")
-
-    url = "http://google.sk"
-
-    def open_url():
-        webbrowser.open_new(url)
-
-    button3 = Button(app, text = "See in dictionary", command = open_url)
-    button3.grid()
-
-    mainloop()
-
-
-def main():
-
-    global tweet_file
+if __name__ == '__main__':
+#    global tweet_file
+#    global unknown
     tweet_file = open(sys.argv[1])
     process_data()
-    gui()
     write_to_file()
-
-if __name__ == '__main__':
-    main()
+    root = Tk()
+    root.title("Active English Vocabulary")
+    root.geometry("500x500")
+    app = ActiveEnglishVocabulary(root)
+    root.mainloop()
