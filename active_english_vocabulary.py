@@ -131,7 +131,8 @@ def calculate_sentiment(tweet, scores):
 if __name__ == '__main__':
 #    global tweet_file
 #    global unknown
-    tweet_file = open(sys.argv[1])
+    #tweet_file = open(sys.argv[1])
+    tweet_file = open("output3.txt")
     process_data()
     write_to_file()
     root = Tk()
