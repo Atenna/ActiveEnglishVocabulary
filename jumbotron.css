@@ -4,6 +4,10 @@ body {
   padding-bottom: 1.5rem;
 }
 
+.jumbotron > h1 {
+    font-size: 2.2em;
+}
+
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
 .marketing,
@@ -50,9 +54,7 @@ body {
   padding: .75rem 1.5rem;
   font-size: 1.5rem;
 }
-.jumbotron > h1 {
-    font-size: 2.2em;
-}
+
 
 /* Supporting marketing content */
 .marketing {
@@ -79,4 +81,11 @@ body {
   .jumbotron {
     border-bottom: 0;
   }
+}
+
+#aev_logo {
+    width: 100px;
+}
+#github_logo {
+    width: 30px;
 }
