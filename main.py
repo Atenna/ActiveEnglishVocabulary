@@ -89,5 +89,5 @@ tTable.insert('', 'end', values=('C B'))
 
 top.config(menu=mMenuBar)
 tTable.pack(side='top')
-openTab("noun")
+#openTab("noun")
 top.mainloop()

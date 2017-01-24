@@ -2,6 +2,9 @@ from numpy.lib.function_base import select
 import sys
 import json
 import re
+
+from pip._vendor import requests
+
 import hyperlink_manager
 import webbrowser
 
@@ -16,6 +19,8 @@ unknown = {}
 sum_words = 0
 url = ""
 btn_dict = []
+words = []
+words_translations = {}
 
 class ActiveEnglishVocabulary(Frame):
 
@@ -97,6 +102,7 @@ def write_to_file():
     """Loop over dictionary sorted by frequency and write to file"""
     text_file = open("absolute_frequency.txt","w")
     html_file = open("absolute_frequency.html", "w")
+    words_file = open("words.txt", "w")
     d_view = [(v,k) for k,v in unknown.iteritems()]
     d_view.sort(reverse=True)
     html_file.write("<ul>\n")
@@ -106,10 +112,30 @@ def write_to_file():
             text_file.write("%s: %d \t" % (k,v))
             html_file.write("<a href='http://slovnik.azet.sk/preklad/anglicko-slovensky/?q="+k+"'Slovnik</a></li>\n")
             text_file.write("http://slovnik.azet.sk/preklad/anglicko-slovensky/?q="+k+"\n")
+            words_file.write(k + "\n")
+            words.append(k)
     html_file.write("</ul>")
     text_file.close()
     html_file.close()
+    words_file.close()
 
+def clean_data():
+    dict_file = open("dict.txt", "w")
+    for w in words:
+        # supports only translations to Slovak language
+        req = "https://translate.google.com/translate_a/single?client=gtx&sl=en&tl=sk&dt=t&q="+w
+        response = requests.get(req)
+        w_t = get_translation(response.text)
+        if w_t and w_t != w:
+            w = w.lower().replace(',', '')
+            w_t = w_t.lower().replace(',', '')
+            words_translations[w] = w_t
+            dict_file.write(w.encode('utf8') + "," + w_t.encode('utf8') + "\n")
+
+def get_translation(response):
+    first = response.find('"')
+    last = response.find('"', first+1)
+    return response[first+1:last]
 
 def calculate_sentiment(tweet, scores):
     """Method to calculate sentiment of a tweet
@@ -135,6 +161,7 @@ if __name__ == '__main__':
     tweet_file = open("output3.txt")
     process_data()
     write_to_file()
+    clean_data()
     root = Tk()
     root.title("AEV")
     root.geometry("192x100")
