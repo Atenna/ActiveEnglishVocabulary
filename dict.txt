@@ -1,5 +1,5 @@
 to,na
-i,ja
+I,ja
 you,vy
 of,z
 and,a
@@ -21,7 +21,7 @@ are,sú
 just,len
 if,ak
 love,milovať
-im,som
+I'm,som
 have,mať
 like,ako
 when,kedy
@@ -77,7 +77,6 @@ his,jeho
 look,vyzerať
 us,nás
 there,tam
-sos,sos
 were,bol
 going,ísť
 much,veľa
@@ -88,7 +87,7 @@ here,tu
 way,cesta
 ill,chorý
 has,má
-vote,hlasovaní
+vote,hlasovanie
 only,iba
 her,jej
 too,príliš
@@ -117,7 +116,6 @@ really,naozaj
 real,skutočný
 person,človek
 win,výhra
-twitter,cvrlikání
 remember,pamätať
 guys,chlapci
 did,urobil
@@ -188,7 +186,7 @@ week,týždeň
 wait,počkať
 soon,čoskoro
 favorite,obľúbený
-ive,mám
+I've,mám
 board,doska
 hate,nenávidieť
 post,pošta
@@ -203,7 +201,6 @@ something,niečo
 use,použitie
 phone,telefón
 live,žiť
-k,k
 tell,oznámiť
 over,cez
 words,slová
@@ -217,13 +214,11 @@ wish,priať
 down,nadol
 god,boh
 followers,nasledovníci
-also,aj
-hes,hes
+also,a
 away,preč
 said,povedal
 hard,usilovne
 finally,konečne
-ancelotti,ancelotti
 watching,sledovanie
 michael,michal
 cutting,výstrižok
@@ -254,7 +249,7 @@ says,hovorí
 made,vyrobený
 gone,preč
 around,okolo
-years,leta
+years,roky
 until,kým
 soccer,kopaná
 into,do
@@ -285,7 +280,6 @@ same,rovnaký
 makes,značky
 leave,zanechať
 followed,nasledoval
-c,c
 through,skrz
 thank,poďakovať
 smoke,dym
@@ -314,7 +308,6 @@ cause,príčina
 call,volania
 beauty,krása
 without,bez
-theres,theres
 show,šou
 send,odoslať
 pm,popoludnie
@@ -329,14 +322,13 @@ hey,hej
 hear,počuť
 fireworks,ohňostroj
 coffee,káva
-wcw,wcw
 omg,o môj bože
 name,názov
 high,vysoký
 fun,zábava
 boys,chlapci
 believe,veriť
-shes,ona je
+she's,ona je
 looks,vzhľad
 join,pripojiť
 job,zamestnania
@@ -346,7 +338,6 @@ pictures,fotografie
 future,budúcnosť
 word,slovo
 past,minulosť
-justin,justin
 inside,vnútri
 football,futbal
 fastest,najrýchlejší
@@ -382,10 +373,7 @@ pussy,mačička
 okay,dobre
 might,sila
 gift,darček
-fav,fav
-voting,hlasovaní
-luke,luke
-lmao,lmao
+voting,hlasovanie
 gets,dostane
 control,ovládanie
 buy,kúpiť
@@ -393,8 +381,6 @@ arent,aréna
 wins,vyhráva
 talk,rozprávať
 story,príbeh
-sethrogen,seth rogen
-h,hod
 working,pracovný
 told,povedal
 thought,myšlienka
@@ -423,9 +409,6 @@ times,doba
 read,čítať
 porn,porno
 left,ľavý
-hemmings,hemmings
-harrystyles,harry styles
-florida,florida
 fall,spadnúť
 christmas,vianoce
 called,volal
@@ -451,7 +434,6 @@ checked,kontrolované
 become,stať sa
 beat,tlcť
 whole,celý
-realmadrid,real madrid cf
 prepares,pripravuje
 political,politický
 photos,fotografie
@@ -461,13 +443,10 @@ heart,srdce
 harry,pustošiť
 fans,fanúšikovia
 city,veľkomesto
-carlo,carlo
-calum,calum
 act,akt
 started,zahájená
 number,číslo
 needs,potreby
-louis,louis
 light,svetlo
 instagram,instagram
 changed,zmenený
@@ -487,7 +466,6 @@ ashton,ashton
 voters,voliči
 thinking,premýšľanie
 tag,štítok
-t,t
 saw,píla
 room,izbu
 puppy,šteňa
@@ -506,7 +484,6 @@ public,verejnosť
 pics,foto
 peace,mier
 parents,rodičia
-nickiminaj,nicki minaj
 meet,stretnúť sa
 male,muž
 idea,nápad
@@ -531,14 +508,11 @@ haircut,strih
 else,inak
 comes,prichádza
 breaking,rozbíjanie
-amazon,amazonka
 v,proti
 town,mesto
-tfb,tfb
 swear,nadávať
 since,odvtedy
 season,sezóna
-qb,qb
 pain,bolesť
 others,ostatné
 month,mesiac
@@ -550,7 +524,7 @@ class,trieda
 break,prestávka
 water,voda
 vs,proti
-theyre,oni
+they're,oni
 team,tím
 released,uvoľnený
 poor,chudobný
@@ -579,7 +553,6 @@ lost,stratený
 listen,počúvať
 later,neskôr
 interested,záujem
-htt,htt
 games,hry
 ebola,ebola
 deserves,zasluhuje
@@ -599,7 +572,6 @@ place,miesto
 minutes,zápis
 issues,problémy
 group,skupina
-gop,gop
 followback,nasledovať späť
 fire,oheň
 fight,boj
@@ -617,7 +589,6 @@ line,riadok
 jobs,pracovných miest
 handmade,ručné
 forever,navždy
-dr,dr
 cut,rez
 cheat,podviesť
 cat,mačka
@@ -634,7 +605,6 @@ sagittarius,strelec
 quick,rýchly
 product,produkt
 opens,otvára
-msg,msg
 lucky,šťastný
 images,snímky
 fine,pokuta
@@ -656,9 +626,7 @@ senate,senát
 seen,videl
 rather,skôr
 pair,pár
-nowplaying,teraz hrá
 maybe,možno
-littlemix,malý mix
 launch,zahájiť
 latest,najnovšie
 htcs,htcs
@@ -682,7 +650,6 @@ perform,hrať
 matter,záležitosť
 loves,miluje
 lose,stratiť
-justinbieber,justinbieber
 invite,vyzvať
 hang,zavesiť
 dinner,večera
@@ -691,7 +658,6 @@ charges,poplatky
 career,kariéra
 building,budova
 body,telo
-bae,bae
 awesome,úžasné
 wouldnt,nechcel by som
 winter,zimné
@@ -706,13 +672,11 @@ seeing,videnie
 results,výsledky
 practice,praxe
 moisturizer,hydratačný
-mcconnell,mcconnell
 khaki,hnedožltý
 disposal,likvidácia
 coloured,farebný
 cargos,nákladu
 brand,značka
-bieber,bieber
 band,pruh
 angels,anjeli
 visit,návšteva
@@ -723,7 +687,6 @@ system,systém
 spot,škvrna
 sounds,zvuky
 skincare,starostlivosť o kožu
-shoreview,shoreview
 service,služba
 scrolls,zvitky
 science,veda
@@ -733,11 +696,9 @@ pro,pre
 point,bod
 pay,platiť
 north,sever
-mtv,mtv
 hundred,sto
 hoes,motyky
 head,hlava
-hauschka,hauschka
 growing,rastúce
 fast,rýchly
 exclusive,výhradný
@@ -759,7 +720,6 @@ tour,prehliadka
 super,super
 success,úspech
 style,štýl
-sd,sd
 saturday,sobota
 running,bezat
 represent,predstavovať
@@ -793,8 +753,6 @@ nudes,akty
 monday,pondelok
 lots,kopa
 living,žijúci
-joshua,joshua
-houston,houston
 headache,bolesť hlavy
 hair,vlasy
 four,štyri
@@ -811,10 +769,8 @@ wild,divoký
 west,západ
 walk,chodiť
 topic,téma
-texans,texans
 teddy,macko
 spent,strávil
-soos,cpc
 sad,smutný
 pulled,pritiahol
 position,poloha
@@ -837,7 +793,6 @@ bridge,most
 bet,stávka
 beer,pivo
 yearold,rok stará
-xd,xd
 type,typ
 teen,dospievajúci
 sound,znieť
@@ -854,11 +809,9 @@ lecture,prednáška
 knows,vie
 kisses,bozky
 kind,druh
-keller,keller
 hurts,bolí
 homeless,bezdomovec
 history,histórie
-hellen,hellen
 hearing,sluch
 hall,hala
 gas,plyn
@@ -894,7 +847,6 @@ meeting,stretnutie
 ladies,dámske
 instead,namiesto
 hoe,motyka
-ha,hektár
 goodbye,zbohom
 ghost,duch
 five,päť
@@ -903,7 +855,7 @@ everyday,každý deň
 everybody,všetci
 essential,nevyhnutný
 easy,jednoduchý
-download,stiahnuť ▼
+download,stiahnuť
 death,smrť
 basketball,basketbal
 background,pozadie
@@ -923,16 +875,11 @@ replace,vymeniť
 rain,dážď
 question,otázka
 nobody,nikto
-nfl,nfl
-netflix,netflix
 nap,zdriemnutie
 nails,nechty
 movie,film
 months,mesiaca
-mallett,mallett
 lunch,obed
-louistomlinson,louis tomlinson
-kobe,kobe
 kitchen,kuchyňa
 husband,manžel
 hurt,bolieť
@@ -941,10 +888,8 @@ healthy,zdravý
 guilty,vínny
 glory,sláva
 gave,dal
-fitzpatrick,fitzpatrick
 feeling,pocit
 fat,tuk
-etsy,etsy
 definitely,rozhodne
 dead,mŕtvi
 chinese,čínsky
@@ -967,14 +912,11 @@ pride,pýcha
 peeps,peeps
 outside,zvonka
 movies,filmy
-maxwell,maxwell
 logic,logika
 lie,lož
 less,menej
 lancer,kopijník
 kill,zabiť
-kardashian,kardashian
-irwin,irwin
 interlude,prestávka
 influences,vplyvy
 ignore,ignorovať
@@ -990,7 +932,6 @@ fault,chyba
 etc,atď
 eating,jesť
 eat,jesť
-dat,dát
 covers,kryty
 confidence,dôvera
 color,farba
@@ -1003,8 +944,6 @@ breakfast,raňajky
 book,kniha
 attention,pozornosť
 among,medzi
-abel,abel
-zayn,zayn
 within,vnútri
 wink,mihnutia
 whatever,hocičo
@@ -1047,12 +986,10 @@ germany,nemecko
 force,sila
 finish,skončiť
 fifthharmony,piata harmónia
-espn,espn
 drop,pokles
 crawls,plazí
 center,centrum
 celebs,celebrity
-carolina,carolina
 apply,aplikovať
 alive,nažive
 adorable,rozkošný
@@ -1064,7 +1001,6 @@ tuesday,utorok
 truth,pravda
 traffic,prevádzka
 title,nadpis
-tbn,tbn
 sportscheck,sportscheck
 self,sám
 scandal,škandál
@@ -1072,7 +1008,6 @@ scale,mierka
 sale,zľava
 received,obdržané
 pieces,kúsky
-photoset,photoset
 parts,diely
 page,strana
 mirror,zrkadlo
@@ -1090,7 +1025,6 @@ fund,fond
 focus,ohnisko
 fitness,vhodnosť
 feelings,pocity
-fawkes,fawkes
 far,ďaleko
 fail,zlyhať
 ex,bývalý
@@ -1118,7 +1052,6 @@ views,pohľady
 unlock,odomknúť
 track,stopa
 standing,stojace
-smh,smh
 signature,podpis
 shany,shany
 seeds,semená
@@ -1136,15 +1069,12 @@ miles,míle
 met,stretol
 mess,neporiadok
 meant,znamenalo
-massachusetts,massachusetts
 losing,stráca
 longer,dlhšie
-liverpool,liverpool
 link,odkaz
 legs,nohy
 legal,právnej
 laugh,smiech
-lauderdale,lauderdale
 killing,zabitie
 jersey,trikot
 interview,rozhovor
@@ -1159,7 +1089,6 @@ fintech,finty
 fifth,piaty
 factor,faktor
 earth,krajina
-dragonheart,dragonheart
 divorce,rozvod
 delivery,dodávka
 daughter,dcéra
@@ -1209,8 +1138,6 @@ magic,mágia
 list,zoznam
 liked,páčilo
 kick,kop
-kendrick,kendrick
-imma,imma
 hometown,rodné mesto
 harto,harto
 harder,ťažšie
@@ -1237,7 +1164,6 @@ charged,nabitý
 capricorn,kozorožec
 broken,zlomený
 brazil,brazília
-beliebers,beliebers
 battery,batérie
 anymore,už
 alright,v poriadku
@@ -1247,7 +1173,6 @@ accidentally,náhodou
 write,zapísať
 worth,hodnota
 worlds,svety
-worldnetdaily,worldnetdaily
 wonderful,báječný
 watches,hodinky
 wars,vojny
@@ -1285,7 +1210,6 @@ played,hral
 plates,dosky
 pink,ružová
 picks,výbery
-philadelphia,philadelphie
 parties,strany
 nut,orech
 mr,pán
@@ -1299,11 +1223,9 @@ lee,závetrie
 leaked,unikli
 leads,vedie
 laughing,smiať sa
-khosi,khosa
 jealousy,žiarlivosť
 improve,zlepšiť
 immigrants,prisťahovalci
-idk,idk
 hungry,hladný
 huh,hm
 hug,objatí
@@ -1313,13 +1235,11 @@ hat,klobúk
 harvested,pozberané
 frank,úprimný
 flow,prietok
-fishburn,fishburne
 feedback,spätná väzba
 facial,tvárový
 entire,celý
 either,buď
 eighty,osemdesiat
-edsheeran,ed sheeran
 driven,jazdiť
 dress,šaty
 display,zobraziť
@@ -1350,13 +1270,11 @@ wrote,napísal
 weds,vdává
 vibrant,vibrujúci
 undisputed,nesporný
-ufb,ufb
 twenty,dvadsať
 tucson,tucson
 traditional,tradičný
 therapy,terapia
 thanksgiving,vďakyvzdania
-tfw,tfw
 tea,čaj
 supporting,podporujúce
 subscribe,predplatiť
@@ -1367,9 +1285,7 @@ smileplease,úsmev prosím
 slick,úhľadný
 sit,sadnúť
 sandwich,sendvič
-samuels,samuels
 rude,drzý
-renee,renee
 raising,zdvíhanie
 princess,princezná
 priced,cenený
@@ -1380,7 +1296,6 @@ paid,zaplatil
 orchard,ovocný sad
 offers,ponúk
 nights,nocí
-niall,niall
 nature,príroda
 mobile,mobilné
 mitch,mitch
@@ -1408,8 +1323,6 @@ gives,dáva
 german,nemec
 gemini,blíženci
 gay,homosexuál
-gainesville,gainesville
-fut,fut
 fixed,fixné
 festivals,festivaly
 failed,neúspešný
@@ -1431,7 +1344,6 @@ catcall,piskot
 careers,kariéry
 cam,vačka
 build,vybudovať
-brocklesnar,brock lesnar
 bra,podprsenka
 bottles,fľaše
 bother,obťažovať
@@ -1459,10 +1371,8 @@ waitin,waitin
 users,užívatelia
 unsatisfied,nespokojný
 understood,chápať
-uconn,uconn
 truly,skutočne
 tries,pokusov
-tl,hr
 throwing,hádzanie
 thot,thot
 therefore,preto
@@ -1477,7 +1387,6 @@ simpsons,simpsonovci
 shy,plachý
 seat,sedlo
 schoolwork,školská práca
-sat,so.
 russian,ruský
 responsibility,zodpovednosť
 response,odpoveď
@@ -1498,18 +1407,15 @@ per,za
 pastors,pastori
 parent,rodič
 pants,nohavice
-mufc,mufc
 monetize,speňažiť
 modern,moderné
 model,modelka
-mins,min
 million,milión
 mild,mierny
 magical,kúzelný
 lover,milovník
 lochaber,lochaber
 lights,svetlá
-lemme,lemme
 lame,chromý
 killed,zabiť
 jordan,jordán
@@ -1527,7 +1433,6 @@ girlfriend,priateľka
 generation,generácie
 generally,všeobecne
 followme,nasleduj ma
-fml,fml
 floor,podlaha
 fitted,vybavená
 father,otec
@@ -1577,7 +1482,6 @@ afraid,báť
 advance,záloha
 adminstration,podávanie
 yup,áno
-ysb,ysb
 works,práce
 wore,nosil
 wondering,uvažoval
@@ -1590,8 +1494,6 @@ tubes,rúrky
 tried,snažil
 trapped,pasce
 tough,húževnatý
-tomlinson,tomlinson
-tna,tna
 tits,kozy
 ti,tí
 third,tretia
@@ -1646,11 +1548,9 @@ lady,slecna
 known,známy
 key,kľúč
 impressionist,impresionistov
-ima,ima
 homosexual,homosexuál
 hollaback,hollaback
 himself,sám
-hiac,hiace
 henrik,henrik
 grumpy,nevrlý
 government,vláda
@@ -1690,14 +1590,12 @@ chest,hruď
 chat,rozprávanie
 caps,čiapky
 butterflies,motýle
-btb,btb
 brunette,bruneta
 braunschweig,braunschweig
 bournemouth,bournemouth
 bomb,bomba
 bitches,suky
 belfast,belfast
-beena,beena
 became,sa stal
 balance,zostatok
 ay,áno
@@ -1721,9 +1619,6 @@ warming,zahrievanie
 videogames,video hry
 vacation,dovolenka
 usually,obvykle
-usa,usa
-uks,uks
-ty,tie
 turns,zákruty
 tuneup,vyladiť
 traceadkins,trace adkins
@@ -1784,7 +1679,6 @@ perfume,parfum
 peoples,národy
 outfit,výstroj
 offensive,ofenzíva
-nys,nys
 numbers,čísla
 notes,poznámky
 none,nikto
@@ -1828,7 +1722,6 @@ fortune,šťastie
 flag,vlajka
 final,záverečný
 figures,čísla
-f,f
 exhibitor,vystavovateľ
 evaluated,hodnotené
 emotions,emócie
@@ -1848,7 +1741,6 @@ decent,slušný
 dating,zoznamovacie
 cycles,cykly
 culture,kultúra
-cs,sk
 craft,remeslo
 core,jadro
 cooking,varenie
@@ -1876,7 +1768,6 @@ bicycles,bicykle
 belichick,belichick
 beef,hovädzie mäso
 becoming,slušivý
-bbc,bbc
 bath,kúpeľ
 based,založené
 bank,breh
@@ -1898,14 +1789,12 @@ aliens,cudzinci
 alert,bdelý
 across,naprieč
 accused,obžalovaný
-zere,žerie
 worried,ustarostený
 voices,hlasy
 united,zjednotený
 typo,preklep
 trending,trendy
 tool,náradie
-tmz,tmz
 tips,tipy
 thousand,tisíc
 themselves,sami
@@ -1928,7 +1817,6 @@ series,séria
 sen,senátor
 segura,segura
 secrets,tajomstvo
-se,se
 rumors,povesti
 rhianna,rhianna
 rate,rýchlosť
@@ -1963,11 +1851,9 @@ mcmurphy,mcmurphy
 markus,markus
 manage,spravovať
 males,muži
-lul,lul
 loyal,lojálni
 loudly,hlasno
 lollipop,lízanka
-lmaoo,lmao
 livid,rozčúlený
 liberal,liberálny
 liars,klamári
@@ -2016,8 +1902,6 @@ entered,vstúpil
 energy,energie
 eluding,uniká
 edited,editoval
-duncan,duncan
-dtla,dtla
 drive,pohon
 downloading,sťahovanie
 dory,úzky čln
@@ -2036,7 +1920,6 @@ choice,voľba
 childish,detinský
 chew,žuť
 charity,dobročinnosť
-cfc,cfc
 century,storočia
 canada,kanada
 calling,povolania
@@ -2080,7 +1963,6 @@ vegetables,zelenina
 variety,odroda
 useful,užitočný
 unless,pokiaľ
-ucl,ucl
 trip,výlet
 treatment,liečba
 trade,obchod
@@ -2089,8 +1971,6 @@ timeline,časová os
 ties,väzby
 thrust,ťah
 thin,tenký
-thg,thg
-thf,thf
 tender,platidlo
 ted,ted
 teams,tímy
@@ -2103,7 +1983,6 @@ straps,popruhy
 station,stanica
 standards,štandardy
 stadium,štadión
-srk,srk
 sports,športové
 spoiled,skazený
 speaker,rečník
@@ -2146,7 +2025,6 @@ pressing,lisovanie
 present,prítomný
 praying,modlí
 pray,modliť sa
-ppg,ppg
 poverty,chudoba
 plot,sprisahania
 pin,kolík
@@ -2156,23 +2034,17 @@ performance,výkon
 perforator,dierkovacie
 patient,pacient
 patience,trpezlivosť
-pake,pake
-paden,paden
-oye,oye
 option,voľba
 opponent,protivník
-omf,omf
 noticed,všimol
 normal,normálne
 noodles,rezance
 nonsense,nezmysel
 nicki,nicki
-nfc,nfc
 near,blízkosti
 nawaz,nawaz
 national,národné
 murphy,murphy
-mps,mps
 moore,moore
 monster,príšera
 mercy,súcit
@@ -2180,7 +2052,6 @@ massively,masívne
 married,ženatý
 maliyah,maliyah
 maddie,maddie
-lujan,lujan
 local,miestna
 listening,načúvanie
 lies,lži
@@ -2235,7 +2106,6 @@ experience,skúsenosť
 executive,výkonný
 execute,vykonať
 especially,obzvlášť
-ers,ers
 enemy,nepriateľ
 elephants,slony
 eaten,jedol
@@ -2303,7 +2173,6 @@ bonfires,ohňa
 beyonc,beyoncé
 benzinga,benzing
 beget,splodiť
-bayard,bayard
 bastards,bastardi
 bankruptcy,bankrot
 bang,tresk
@@ -2337,7 +2206,6 @@ uploads,nahranie
 unemployed,nezamestnaný
 underthehood,pod kapotou
 unchanged,nezmenený
-twp,twp
 twins,dvojčatá
 tune,melódie
 tucked,zastrčený
@@ -2382,7 +2250,7 @@ reward,odmena
 responsibilities,zodpovednosť
 research,výskum
 reports,správy
-replied,odpovedal:
+replied,odpovedal
 reminiscent,pripomínajúce
 registers,registre
 refreshing,osviežujúci
@@ -2409,7 +2277,6 @@ overslept,zaspal
 outdoor,vonkajšie
 ostracized,vylúčený
 oil,olej
-nwt,nwt
 network,sieť
 neonazi,neonazi
 naturally,prirodzene
@@ -2438,9 +2305,7 @@ lessons,vyučovanie
 legalize,legalizovať
 leaves,listy
 leadership,vodcovstvo
-kno,kno
 kimkardashian,kim kardashian
-keef,keef
 josh,robiť si srandu z
 joining,spájanie
 investigate,vyšetrovať
@@ -2471,7 +2336,6 @@ glenville,glenville
 george,george
 garden,záhradný
 galvanic,galvanický
-fwd,fwd
 french,francúzsky
 freeze,zmraziť
 freaky,strašidelný
@@ -2551,8 +2415,6 @@ addie,addie
 acrylic,akryl
 accounts,účty
 zone,zóna
-zay,zay
-xaviers,xaviers
 worthy,ctihodný
 worked,pracoval
 wood,drevo
@@ -2598,7 +2460,6 @@ theyll,oni budú
 therace,závod
 theory,teória
 thankful,vďačný
-tfm,tfm
 terrorist,terorista
 tennessee,tennessee
 templeton,templeton
@@ -2675,8 +2536,6 @@ quoted,citoval
 quit,prestať
 quirky,nepredvídateľný
 questionable,diskutabilné
-quarte,quar
-qis,qis
 pygmy,trpaslík
 pros,klady
 progress,pokrok
@@ -2702,7 +2561,6 @@ palm,dlaň
 pad,podložka
 owed,dlhoval
 overkill,prezbrojenie
-ocd,ocd
 observe,pozorovať
 nuage,oblak
 nowhere,nikde
@@ -2729,8 +2587,6 @@ matt,matný
 matches,zápalky
 mastercard,mastercard
 massage,masáž
-mallaig,mallaig
-lte,lte
 lowes,lowes
 lock,zamknúť
 lobbyists,lobisti
@@ -2890,7 +2746,6 @@ bold,tučný
 blowing,fúkania
 bloody,krvavý
 blink,blikať
-bli,bli
 bike,kolo
 bihar,bihar
 bigger,väčší
@@ -2903,7 +2758,6 @@ babies,bábätká
 austinmahone,austin mahone
 auctions,aukcie
 ate,jedol
-asss,sšhr
 ashley,ashley
 aryan,árijský
 arkansas,arkansas
@@ -2917,12 +2771,7 @@ annihilated,zničený
 ankle,členok
 aide,pomocník
 afterward,nato
-aapl,aapl
-zotto,zotto
 zero,nula
-yyj,yyj
-xzibit,xzibit
-xdd,xdd
 written,písaný
 writing,písanie
 worrying,znepokojujúce
@@ -2942,7 +2791,6 @@ voiced,znelý
 virgin,panenský
 vanguard,predvoj
 vale,údolie
-uschi,uschi
 updated,aktualizované
 unsupervised,bez dohľadu
 twilight,súmrak
@@ -2953,10 +2801,8 @@ troops,vojsko
 trends,trendy
 transformed,transformovala
 tooka,took
-tigo,tigo
 thermodynamics,termodynamika
 therapist,terapeut
-tfg,tfg
 terrace,terasa
 tempting,lákavý
 tech,technológie
@@ -2982,9 +2828,7 @@ starving,hladujúci
 squirrels,veveričky
 squeeze,stlačiť
 spoken,hovorený
-speke,speke
 socialmedia,sociálne médiá
-snyder,snyder
 snowed,snežilo
 sneaky,záludný
 smash,smeč
@@ -2999,7 +2843,6 @@ shout,kričať
 shortly,krátko
 shitting,prdel
 shipped,dodaný
-shinn,shinn
 shifts,posuny
 shields,štíty
 shed,kôlňa
@@ -3009,13 +2852,11 @@ serve,slúžiť
 sensible,rozumný
 sells,predáva
 sees,vidí
-scovel,scovel
 saving,sporenia
 samuel,samuel
 salmond,salmond
 rush,náhlenie
 rumours,povesti
-romas,romas
 robotics,robotika
 ring,krúžok
 ridiculous,smiešny
@@ -3030,7 +2871,6 @@ reach,dosah
 rat,potkan
 rachel,rachel
 quits,ukončí
-qe,qe
 purple,purpurový
 pubs,krčmy
 prototype,prototyp
@@ -3054,7 +2894,6 @@ population,populácia
 poop,lodné zadok
 polling,dopytovania
 plenty,kopa
-pise,pise
 piercings,piercing
 pickled,nakladané
 phase,fáza
@@ -3070,30 +2909,21 @@ opened,otvorené
 ooops,ooops
 onto,na
 onemoreday,ešte jeden deň
-onece,oniec
 offer,ponuka
 october,október
 ocean,oceán
-nsfw,nsfw
-nose,nos
 nine,deväť
 newscientist,newscientist
-ne,nie
 nascar,nascar
 named,pomenovaný
 mushrooms,huby
 mushroom,huba
-mtn,mtn
-moyes,moyes
 motherfuckers,sviňa
 moms,mamičky
-mirasa,miras
-milf,milf
 mexican,mexičan
 mergesort,triedenie zlučovaním
 mention,spomenúť
 meltdown,zrútenie
-meis,meis
 medical,lekársky
 mcneese,mcneese
 mayor,starosta
@@ -3101,29 +2931,17 @@ massive,masívny
 market,trh
 maker,výrobca
 maida,maida
-mags,mags
-lourd,lourd
-louisville,louisville
 logbook,denník
 log,záznam
 lobbyist,lobista
 lips,pery
-lfc,lfc
-lexie,lexie
 legislation,legislatíva
 lava,láva
-lakeview,lakeview
-kylie,kylie
-kpk,kpk
-kotodama,kotodama
 killer,zabijak
 keeps,udržuje
-jurisdiction,jurisdikcie
 jungle,džungle
 joshs,joshs
-jim,jim
 jewellery,šperky
-iowa,iowa
 invites,pozvánok
 invisible,neviditeľný
 inter,pochovať
@@ -3135,19 +2953,15 @@ inner,vnútorný
 infill,výplň
 indra,indra
 independence,nezávislosť
-ina,v
 improvement,zlepšenie
 imprint,odtlačok
 impatient,netrpezlivý
-imac,imac
 illness,choroba
 hustle,zhon
 hunt,hon
-humpty,humpty
 hubspot,hubspot
 howd,howdy
 hotels,hotely
-hornby,hornby
 holiday,dovolenka
 helping,pomáha
 held,držaný
@@ -3155,7 +2969,6 @@ heartbeat,tlkot srdca
 healthiest,najzdravšie
 hayes,hayes
 hamster,škrečok
-hadi,hady
 hack,kopnutie
 guitar,gitara
 guinea,guinea
@@ -3164,15 +2977,12 @@ grants,granty
 grant,udeliť
 grade,stupeň
 goodnight,dobrú noc
-gola,gola
 gingerbread,perník
 getaway,uniknúť
 gentlemen,páni
 gene,gen
 gasoline,benzín
 ganst,gansta
-galaxys,galaxys
-fyi,s pozdravom
 fuming,dymiaci
 frying,vyprážanie
 fries,hranolky
@@ -3201,7 +3011,6 @@ everytime,vždy
 eventually,nakoniec
 eurocup,eurocup
 essay,esej
-ervan,érvan
 ended,ukončený
 encourage,povzbudiť
 embrace,objatí
@@ -3241,7 +3050,6 @@ decoder,dekodér
 dancin,dancin
 curse,prekliatie
 cube,kocky
-crip,crip
 court,súd
 counsel,advokát
 council,rada
@@ -3258,13 +3066,10 @@ clap,tlieskanie
 civilized,civilizovaný
 chiropractic,chiropraxe
 checks,kontroly
-checkit,checkit
-certo,certo
 ceramic,keramický
 centre,centrum
 casual,neformálne
 carrying,nesúci
-carlin,carlin
 caring,láskavý
 capital,kapitál
 capabilities,schopnosti
@@ -3284,7 +3089,6 @@ blessing,požehnanie
 blessed,požehnaný
 belly,brucho
 beanie,čiapočku
-bby,bby
 bayern,bayern
 bassett,bassett
 ballot,hlasovaní
@@ -3293,7 +3097,6 @@ aztec,aztécky
 awn,osina
 averaging,priemerovanie
 attacking,útočiace
-atcha,atch
 astonishingly,napodiv
 asshole,kretén
 assay,test
@@ -3304,12 +3107,10 @@ anyways,tak ako tak
 anonymous,anonymný
 announce,oznámiť
 animal,zviera
-anberlin,anberlin
 amnesty,amnestie
 aloof,rezervovaný
 alien,cudzinec
 airtel,airtel
-afi,afi
 adjustment,nastavenie
 actors,herci
 actions,akcie
@@ -3318,24 +3119,15 @@ accountable,zodpovedný
 absolved,absolvoval
 absolute,absolútny
 ability,schopnosť
-abbie,abbie
 zurich,zürich
 zombies,zombie
-zenmed,zenmed
-za,za
-yuh,jo
 yogurt,jogurt
-yeezus,yeezus
-xvideos,xvideos
-xavi,xavi
 wrists,zápästie
 worthwhile,hodnotný
 worries,obavy
 worldwide,celosvetovo
 worktop,pracovná doska
 workers,pracovníci
-wkb,wkb
-wilkinson,wilkinson
 whores,dievky
 whip,bič
 whatsthedifference,aký je rozdiel
@@ -3345,13 +3137,9 @@ weirdness,výstrednosť
 website,webové stránky
 waves,vlny
 wanting,nedostačujúca
-walsh,walsh
 waking,prebudenie
 voteso,votes
 vision,videnie
-vincent,vincent
-vevo,vevo
-ventu,vento
 vaunted,vychvaľovaný
 valuable,cenný
 valima,valimo
@@ -3363,10 +3151,7 @@ unit,jednotka
 unexpected,neočakávaný
 unattractive,neatraktívne
 ukraines,ukrajine
-ucsd,ucsd
-tvd,tvd
 tub,vaňa
-trippy,tripp
 trinity,trojica
 trial,pokus
 trees,stromy
@@ -3381,7 +3166,6 @@ thug,násilník
 throb,pulzovanie
 thong,remeň
 thirty,tridsať
-tgf,tgf
 terror,hrôza
 term,termín
 tend,sklon
@@ -3458,10 +3242,8 @@ scatter,rozptyl
 savage,krutý
 satan,diabol
 sassy,drzá
-sass,sass
 sarcastic,sarkastický
 sadly,smutne
-saad,saad
 runs,beží
 ruger,ruger
 rowan,žeriav
@@ -3471,7 +3253,6 @@ rodney,rodney
 rochester,rochester
 roar,rev
 rides,vychádzky
-rico,rico
 rhombus,kosoštvorec
 revolve,točiť
 reviewsthe,revízia
@@ -3525,33 +3306,22 @@ painful,bolestivý
 owens,owens
 overunder,cez pod
 outdo,predčiť
-ottawa,ottawa
-osram,osram
 organizational,organizačné
 organization,organizácie
 organic,organický
 oppose,odporovať
 opening,otvor
 oneinamillion,jeden z milióna
-omfg,omfg
 olive,olivový
 older,staršie
-olaf,olaf
-okis,okis
 officers,dôstojníci
-nyt,nyt
 nylons,nylonové pančuchy
 notebooks,notebooky
 nope,nie
 nightscape,nočná scéna
 needing,potrebujú
-nandos,nandos
 nancypelosi,nancy pelosiová
 muslim,moslim
-mtu,mtu
-ms,pani
-mlas,mlas
-miwi,miwi
 mission,poslanie
 misconduct,previnenie
 ministry,ministerstvo
@@ -3566,14 +3336,10 @@ meets,spĺňa
 meal,jedlo
 mdf,mdf
 maynards,maynards
-matome,maťo
 masters,majstri
 marillac,marillac
 margin,okraj
 map,mapa
-manor,panstva
-mandem,mandi
-madem,made
 lupem,lupom
 lucas,lucas
 lsd,lsd
@@ -3600,8 +3366,6 @@ landshut,landshut
 lanaparrilla,laná parrilla
 lads,chlapci
 kylieminogue,kylie minogue
-kvb,kvb
-kobes,kobes
 knock,zaklopať
 kipsang,kipsang
 kingdoms,kráľovstvo
@@ -3611,7 +3375,6 @@ kendricklamar,kendrick lamar
 kendal,kendal
 karachi,karachi
 justify,ospravedlniť
-juiz,juiz
 joy,potešenie
 joins,pripája
 joe,joe
@@ -3624,8 +3387,6 @@ jaymi,jayma
 jay,sojka
 jacob,jakub
 italy,taliansko
-iskate,iška
-iow,iow
 involve,zahrnúť
 investors,investori
 investigation,vyšetrovanie
@@ -3642,8 +3403,6 @@ include,zahrnúť
 illogical,nelogický
 idiotic,idiotsky
 ideas,nápady
-idc,idc
-ibz,ibz
 hyderabad,hyderabad
 hurry,ponáhľať
 hunting,lov
@@ -3685,7 +3444,6 @@ guests,hostia
 guest,hosť
 ground,prízemný
 groceries,koloniál
-grl,grl
 grenade,granát
 grandma,babka
 gosh,sakra
@@ -3699,9 +3457,7 @@ gently,jemne
 generations,generácie
 genders,pohlavie
 gallery,galéria
-fsu,fsu
 freezing,zmrazenie
-fpv,fpv
 folks,ľudia
 flowers,kvetiny
 flight,let
@@ -3748,7 +3504,6 @@ downloaded,stiahnuť
 downhill,zjazd
 doors,dvere
 doe,srna
-dji,dji
 distorted,skreslený
 dispatch,odoslanie
 disney,disney
@@ -3763,7 +3518,6 @@ demon,démon
 deleted,vypúšťa
 defeat,porážka
 decision,rozhodnutie
-dats,datse
 dashboards,panely
 darkplace,darkplace
 dari,dari
@@ -3802,15 +3556,12 @@ christof,christof
 chopping,rozvlněný
 chipotle,chipotle
 chickens,kurčatá
-chewbacca,chewbacca
 cheers,na zdravie
 cheated,podvádzal
 chavan,chavan
 chase,naháňačka
 champions,šampiónov
 centuries,storočia
-celestron,celestron
-ccls,ccls
 cavalera,cavalera
 caution,opatrnosť
 captain,kapitán
@@ -3821,12 +3572,8 @@ burst,výbuch
 burnt,spálený
 bullet,guľka
 budget,rozpočet
-bryant,bryant
-bruc,bruc
-brittany,brittany
 brilliant,brilantné
 breathe,dýchať
-brb,brb
 bras,podprsenky
 brains,mozgy
 bottom,dno
@@ -3841,7 +3588,6 @@ bird,vták
 bioengineering,bioinžinierstva
 billionaires,miliardári
 bikini,bikiny
-biebers,biebers
 bibletime,poznejbibli
 bias,predsudok
 bestival,bestival
@@ -3851,16 +3597,12 @@ beloved,milovaný
 believed,veria
 battles,bitky
 battle,bitka
-basshunter,basshunter
 banner,prápor
-bangalore,bangalore
 bakers,pekári
 baggin,baggin
 bachelors,bakalári
 axis,os
 attending,navštevovať
-assfuck,assfuck
-arvind,arvind
 arguments,argumenty
 area,plocha
 apples,jablká
@@ -3875,7 +3617,6 @@ alleged,údajný
 alexissanchez,alexis sánchez
 ahhh,ach
 ages,starobe
-afm,afm
 affordable,cenovo dostupné
 affairs,záležitosti
 affair,aféra
@@ -3884,15 +3625,8 @@ acting,herectvo
 accept,súhlasiť
 youngster,mladík
 youngest,najmladší
-youi,youi
-yogyakarta,yogyakarta
-yifan,yifan
 yep,hej
 yellow,žltá
-xox,xox
-wyman,wyman
-wutang,wu tang
-wrk,wrk
 wrap,zabaliť
 workshops,dielne
 worker,robotník
@@ -3911,7 +3645,6 @@ whiteboard,biela tabuľa
 wherever,kdekoľvek
 westbound,západ
 webcam,webkamera
-waynesboro,waynesboro
 wave,vlna
 watchmakers,hodinári
 wasted,zbytočný
@@ -3934,8 +3667,6 @@ unified,zjednotený
 understands,chápe
 underachievers,lajdák
 uncle,strýko
-ukip,ukip
-uii,uii
 twisted,skrútený
 tutors,lektori
 tummy,bruško
@@ -3945,18 +3676,15 @@ tribute,hold
 treatise,pojednanie
 trademark,ochranná známka
 toward,k
-tove,tove
 totally,naprosto
 toned,tónovaný
 tokyo,tokio
 tissue,tkanivo
-tish,tish
 timescale,harmonogram
 thus,teda
 threatens,ohrozuje
 threaten,hroziť
 thiner,tenšie
-thine,thin
 thehobbit,hobit
 theft,krádež
 theaters,divadla
@@ -3996,7 +3724,6 @@ strangle,uškrtiť
 storage,skladovanie
 stopping,zastavenie
 stonehenge,stonehenge
-sterek,stierok
 stds,pohlavné choroby
 stainless,nerezová
 squats,drepy
@@ -4004,12 +3731,10 @@ spending,výdavky
 spelling,pravopis
 speck,smietka
 spaceships,kozmické lode
-southie,southie
 sometime,niekedy
 soldiers,vojaci
 softens,zmäkčuje
 soap,mydlo
-snf,snf
 snapping,pukanie
 smurf,šmolko
 smokers,fajčiari
@@ -4024,14 +3749,9 @@ sip,dúšok
 sin,hriech
 silver,striebro
 silent,ticho
-siegal,siegal
 sided,obojstranný
 shuttles,raketoplány
 shred,rozrezať
-sherlock,sherlock
-shenandoah,shenandoah
-shelton,shelton
-sharjah,sharjah
 shared,zdieľaná
 shadows,tiene
 shabba,shabbat
@@ -4051,12 +3771,7 @@ scar,jazva
 satisfied,spokojný
 salve,balzam
 salute,pozdrav
-sakamaki,sakamaki
-rurik,rurik
-rti,rti
 rooftop,strešné
-rojas,rojas
-roel,roel
 rodents,hlodavce
 rocked,otriasli
 rip,roztrhnutiu
@@ -4083,8 +3798,6 @@ regardless,bez ohľadu
 refreshes,osviežuje
 refresh,obnoviť
 rear,zadné
-realtek,realtek
-realky,reálku
 realized,realizovaná
 ray,lúč
 ravaging,pustoší
@@ -4143,10 +3856,8 @@ perrie,perrie
 permission,povolenie
 perdue,perdue
 peek,pokukovať
-peb,peb
 peas,hrášok
 peacefully,pokojne
-pdp,pdp
 payton,payton
 paying,platenie
 paternity,otcovstva
@@ -4191,8 +3902,6 @@ moons,mesiaca
 monarchist,monarchistom
 moles,mole
 moisturizing,hydratačný
-moira,moira
-moe,mžp
 modest,skromný
 mirrors,zrkadlá
 mintel,mintel
@@ -4256,7 +3965,6 @@ lemon,citrón
 legendary,legendárny
 leaving,opúšťať
 leash,remienok
-lbc,lbc
 lawrence,lawrence
 launching,spustenie
 laughed,zasmiala
@@ -4275,27 +3983,16 @@ kickoff,výkop
 kelly,kelly
 keeper,brankár
 keaton,keaton
-ke,ku
 kaskade,kaskade
 kagin,kagin
 kaffeeklatsch,kaffeeklatsch
 jutting,vyčnievajúce
 justice,spravodlivosť
-julie,julie
 judging,súdiac
 judgement,rozsudok
-jonny,jonny
-jonathan,jonathan
 joking,žartovanie
 joke,vtip
-johnson,johnson
-jennifer,jennifer
-jennas,jenna
 jelly,želé
-jeanna,jeanna
-jason,jason
-jamal,jamal
-jaden,jaden
 itinerary,itinerár
 israeli,izraelský
 isparta,isparta
@@ -4321,10 +4018,8 @@ inbox,doručená pošta
 impunity,beztrestnosť
 impeach,obviniť
 illegal,nezákonný
-ik,ik
 ignoring,ignorovanie
 ignorance,neznalosť
-hume,hume
 humanrights,ľudské práva
 howdy,howdy
 hotdog,párok v rožku
@@ -4338,8 +4033,6 @@ holy,svätý
 holly,svätý
 hoffman,hoffman
 hoax,výmysel
-hny,hny
-hmu,hmú
 hispanic,hispánsky
 hijack,únos
 highdefinition,vysoké rozlíšenie
@@ -4362,19 +4055,14 @@ gunny,střelák
 gum,guma
 guard,stráž
 groups,skupiny
-grids,rošty
 grey,sivá
-gregr,grégr
-greg,greg
 grammar,gramatika
 gracious,milostivý
 governing,vládnucej
 gotomeeting,gotomeeting
 goodness,dobrota
 goodjob,dobrá práca
-goi,goi
 godspeed,pozdrav na rozlúčku
-gmo,gmo
 glutenfree,bezlepkový
 giggles,chichot
 giants,obri
@@ -4383,9 +4071,7 @@ gays,gayovia
 gate,brána
 gamboa,gamboa
 gale,víchrica
-gaara,gaara
 fuel,palivo
-fti,fti
 freshmen,prváci
 freestyles,freestyles
 frame,rám
@@ -4395,11 +4081,9 @@ fortyone,štyridsať jeden
 former,bývalý
 forest,les
 forecast,predpoveď
-follo,follo
 foggy,hmlistý
 fluff,páperie
 flaw,kaz
-flatbush,flatbush
 flashback,retrospektíva
 flamed,podpálil
 fizz,šumieť
@@ -4412,10 +4096,7 @@ feminism,feminizmus
 fellow,chlapík
 feb,februára
 feast,hody
-faring,darí
-farhm,farhi
 fantastic,fantastický
-falcao,falcao
 faith,viera
 failing,nedostatok
 facetime,facetime
@@ -4430,8 +4111,6 @@ esquire,vážený pán
 escapes,úteky
 era,éra
 equipped,vybavený
-epsom,epsom
-epl,epl
 entering,vchod
 emboldens,povzbudí
 elfrid,elfrida
@@ -4456,8 +4135,6 @@ diverse,rozmanitý
 disease,choroba
 disappointment,sklamanie
 disagreement,nesúhlas
-dinos,dinos
-dinah,dinah
 dimples,jamkami
 dialing,vytáčanie
 dham,dham
@@ -4564,8 +4241,6 @@ bodies,orgány
 blonde,blondínka
 bledsoe,bledsoe
 blasphemy,rúhanie
-bjs,bjs
-bjp,bjp
 birth,pôrod
 birds,vtáky
 bipolar,bipolárne
@@ -4595,7 +4270,6 @@ atheists,ateisti
 assumes,predpokladá
 associated,spojená
 ashamed,zahanbený
-asap,asap
 arsenal,arzenál
 arrives,prichádza
 armies,armády
@@ -4607,18 +4281,13 @@ archive,archív
 appointment,vymenovanie
 applicants,žiadatelia
 apparently,zrejme
-aoc,aoc
 antithesis,protiklad
 annual,výročný
 anarchist,anarchista
 amnesia,amnézia
-amandabynes,amanda bynesová
 allure,lákať
-allpro,allpro
 allin,všetko v
 alcohol,alkohol
-albuquerque,albuquerque
-aj,ai
 affix,pripevniť
 affiliate,pobočka
 affects,postihuje
@@ -4638,13 +4307,7 @@ yukari,yukari
 youths,mládež
 youporn,youporn
 yoga,jóga
-yiff,yiff
 yesterdays,včerajšku
-yesh,yeshi
-yaya,yaya
-yak,jaka
-xocai,xoçai
-wwf,wwf
 writes,píše
 writers,spisovatelia
 workwear,pracovné odevy
@@ -4695,24 +4358,18 @@ underestimate,podceniť
 uncommon,neobvyklý
 unappetizing,nelákavý
 ultimate,konečný
-ull,ull
 twittering,cvrlikání
-tw,tw
 tutorial,konzultácie
 turmoil,vrava
 turkey,moriak
 tuned,naladený
-tuff,tuf
-ttc,ttc
 tshirt,tričko
 tropical,tropický
 troll,trol
 trippin,trippin
 tricks,triky
-tribble,tribble
 treasury,pokladňa
 treason,zrada
-travis,travis
 traveller,cestovateľ
 trap,pasca
 transform,premeniť
@@ -4721,14 +4378,11 @@ trading,obchodovanie
 tracking,sledovanie
 tottenham,tottenham
 total,celkom
-tlr,tlr
 titled,s názvom
 titanic,gigantický
-ths,tis
 threshold,prah
 threat,hrozba
 thomas,tomáš
-ther,ther
 themed,zábavnom
 thehungergames,hry o život
 thegame,hra
@@ -4743,8 +4397,6 @@ technical,technický
 teatime,čas na čaj
 teased,doberali
 teachers,učitelia
-tdy,tdy
-tcs,tcs
 tapped,poklepal
 tamu,tamu
 tamar,tamar
@@ -4796,8 +4448,6 @@ stoked,priživujú
 stockton,stockton
 stinky,smradľavý
 stimulation,stimulácia
-steviewonder,stevie wonder
-stevensville,stevensville
 sterilisation,sterilizácia
 stepping,krokovanie
 stem,stonka
@@ -4835,11 +4485,8 @@ society,spoločnosť
 societies,spolky
 socializing,znárodniť
 sochi,soči
-snp,snp
 snowmen,snehuliaci
-smore,smør
 smooth,hladký
-smokin,smokin
 slate,bridlice
 slag,troska
 slacking,flákania
@@ -4857,11 +4504,8 @@ showers,sprchy
 shooting,streľba
 ships,lode
 shipping,doprava
-shindig,shindig
-shergill,shergill
 shelf,police
 shampoo,šampón
-shakhtar,shakhtar
 shadow,tieň
 sexual,sexuálnej
 settle,usadiť
@@ -4870,7 +4514,6 @@ serenade,serenáda
 selling,predajné
 selfless,nesebecký
 selfemployed,živnostník
-selfe,šelf
 selects,vyberá
 selection,výber
 seemed,zdalo
@@ -4888,7 +4531,6 @@ scots,škótsky
 scorpio,škorpión
 scores,skóre
 schooled,vzdelávali
-scg,scg
 scenery,scenérie
 scam,podvod
 sausages,salámy
@@ -4912,7 +4554,6 @@ rockford,rockford
 robins,červienky
 robin,červienka
 robbins,robbins
-rnt,rnt
 riverside,breh rieky
 rite,obrad
 risk,riskovať
@@ -4923,7 +4564,6 @@ riding,jazdecké
 ridin,ridin
 riddles,hádanky
 rid,zbaviť
-ri,ri
 reviews,recenzia
 revenues,príjmy
 reveled,vyžíval
@@ -4968,8 +4608,6 @@ rams,barani
 rakim,rakim
 raised,zvýšený
 rage,zlosť
-radiodisney,radio disney
-rad,rád
 racists,rasisti
 racist,rasistický
 racing,dostihy
@@ -5017,7 +4655,6 @@ politico,politicko
 policy,politika
 poetry,poézie
 poeticjustice,poetická spravodlivosť
-pmp,pmp
 plunder,korisť
 plugin,zapojiť
 pleasant,príjemný
@@ -5032,8 +4669,6 @@ picnic,piknik
 physical,fyzický
 phrases,frázy
 phoenix,fénix
-phillips,phillips
-peterson,peterson
 peter,peter
 pests,škodcovia
 personality,osobnosť
@@ -5067,93 +4702,55 @@ ordinary,obyčajný
 oracle,veštec
 options,možnosti
 opposite,opak
-onza,onza
-okk,okk
-oistein,øistein
 ofmiceandmen,o myšiach a ľudoch
 ofcourse,samozrejme
 occupancy,obsadenosť
 obsessive,utkvel
-obs,obs
 object,objekt
 obamas,obamovi
 oasis,oáza
 oak,dub
-nuove,nuove
 nuggets,nugety
-nra,nra
 novel,román
 northeast,severovýchod
-noora,noora
 noone,nikto
 nonsmokers,nefajčiari
 nominated,nominant
 noisy,hlučný
 nipples,bradavky
 nilly,nechtiac
-nih,nih
 niece,neter
 nia,nia
 newarrivals,novo prichádzajúci
 neither,ani
 neighbors,susedia
-nda,nda
-nbc,nbc
 nationally,národno
 nation,národ
-nashgrier,nash grier
-narendramodi,narendra modi
 nanotechnology,nanotechnológie
-nanda,nanda
 naive,naivný
-nae,nae
-naaa,náåą
-mystique,mysticizmus
-mvb,mvb
 muscles,svaly
 mule,mulica
-muas,mua
-mths,mes
-mrs,pani
-mrpi,mrpii
-mre,mre
-mpts,mpts
 movearound,pohybovať
 moustache,fúzy
 mouse,myš
 moth,moľa
 mostly,väčšinou
 moron,kretén
-montee,montee
-montague,montague
 monopoly,monopol
 mondays,pondelky
 momma,mama
-moines,moines
 moderation,umiernenosť
 mode,režim
 mock,falošný
-mobute,mobov
-mma,mma
-mixtapes,mixtapes
 mixed,zmiešaný
 mistakes,chyby
-missouri,missouri
 miracles,zázraky
 minimal,minimálny
 minds,myseľ
 mimicry,mimikry
 miller,mlynár
 milk,mlieko
-mignolet,mignolet
-midwest,midwest
 midfielders,záložníci
-middy,middy
-micheal,micheal
-miamiheat,miami heat
-mff,mff
-metacritic,metacritic
-mesut,mesut
 messy,chaotický
 mermaid,morská panna
 mercurial,ortuťový
@@ -5161,31 +4758,16 @@ mentioning,zmienku
 memory,pamäť
 memo,memorandum
 melbourne,melbourne
-meit,meit
 mechanics,mechanika
 measures,opatrenia
-mcqueen,mcqueen
-mclaren,mclaren
-mci,mci
-mcdonalds,mcdonalds
-mbf,mbf
 matching,vhodný
 marrying,ženili
-marquei,marquee
 marks,známky
-marketwatch,marketwatch
-marker,fix
-marissa,marissa
-mariee,mariée
 march,pochod
-manners,mravy
 mankind,ľudstvo
 manipulates,manipuluje
-mamacita,mamacita
-malala,malala
 makers,tvorcovia
 maintenance,údržba
-maclachlan,maclachlan
 mack,gumák
 mac,gumák
 lynch,lynčovať
@@ -5199,9 +4781,7 @@ logistics,logistika
 loft,podkrovie
 lobbying,lobingu
 load,zaťaženie
-livingston,livingston
 lives,životy
-lip,peru
 lindmark,lindmark
 limey,angláni
 lifee,life
@@ -5213,61 +4793,34 @@ lesnar,lesnar
 leggings,legíny
 legends,legendy
 led,viedlo
-ldn,ldn
 layer,vrstva
-laurinaitis,laurinaitis
 laundry,bielizeň
 laughter,smiech
 large,veľký
 lap,klin
 language,jazyk
-lampard,lampard
-lakeland,lakeland
 label,etiketa
 lab,laboratórium
 kudos,sláva
-kubela,kübel
-kramer,kramer
 korean,kórejský
 knocked,zrazil
 knee,koleno
 king,kráľ
 kinds,druhy
-killa,killa
-kiis,kiis
 kidding,srandu
-khabar,khabar
-kevin,kevin
-kayla,kayla
-kathryn,kathryn
-kankan,kankan
-kaboom,kaboom
 justices,sudcovia
-juncker,juncker
 jumps,skoky
-jumpman,jumpman
 jubilee,jubileum
 jubilant,jasavý
 journey,cesta
-joni,joni
-jodi,jodi
-jmu,mov
-jean,jean
-jasper,jaspis
 japanese,japonský
 japan,japonsko
 jamming,rušenie
 jamesarthur,james arthur
 jam,džem
-jahil,jahili
 itself,sám
 italian,talian
-israels,israels
 isolating,izolovať
-isif,isifa
-irl,irl
-iriga,iriga
-iqaluit,iqaluit
 involvement,angažovanosť
 investment,investície
 invented,vynašiel
@@ -5278,10 +4831,8 @@ innocence,nevinnosť
 inlove,zaľúbený
 injury,zranenia
 injection,injekcie
-ingram,ingram
 inflammatory,poburujúce
 infinity,nekonečno
-infested,infested
 inferior,podradný
 industry,priemysel
 incredible,neuveriteľný
@@ -5293,8 +4844,6 @@ iceland,island
 icecube,kocka ľadu
 ibukun,ibukun
 iamhungry,som hladný
-iam,som
-hyun,hyun
 hyped,medializované
 hundreds,stovky
 hund,psík
@@ -5320,22 +4869,15 @@ hint,náznak
 hereby,týmto
 headset,slúchadlá
 headband,čelenka
-hbd,hbd
 haze,opar
-hawt,hawt
-haverford,haverford
 hashtags,hashtag
-harrington,harrington
-harmer,harmer
 hares,zajace
 hapoy,hapo
 hank,klbko
 handbook,príručka
 hairs,chĺpky
-guyfawkes,guy fawkes
 gut,črevo
 guitars,gitary
-gsi,gsi
 growl,zavrčanie
 grips,madlá
 grills,grily
@@ -5350,7 +4892,6 @@ graders,porovnávače
 gossip,drby
 gore,klin
 goose,husia
-goona,goon
 goodmorning,dobré ráno
 goggles,ochranné okuliare
 goddamn,sakramentsky
@@ -5358,10 +4899,7 @@ godaddy,godaddy
 globe,svet
 glasgowo,glasgow
 gizmo,vecička
-gino,gino
-gimme,gimme
 gifted,nadaný
-gifs,gif
 ghostbusters,ghostbusters
 geographers,geografi
 gent,pán
@@ -5369,26 +4907,16 @@ gembird,gembird
 gbu,gbu
 gathering,zhromaždenia
 gates,brány
-garylineker,gary lineker
 gape,civieť
-gamespot,gamespot
-gagas,gagas
-gag,roubík
-fwm,fwm
-fwiw,fwiw
-furze,furze
 fury,zúrivosť
 further,ďalej
-funds,fondy
 fundamentals,základy
-ftl,dt
 frustrated,frustrovaný
 fruit,ovocný
 friendsme,friends
 fried,vyprážané
 fridge,chladnička
 fresh,čerstvý
-freestyling,freestylingu
 freakin,ujíždět
 francisco,francisco
 forgive,odpustiť
@@ -5397,14 +4925,11 @@ forbidden,zakázaný
 footwear,obuv
 footsteps,kroky
 foodies,gurmáni
-follett,follett
 flexible,pružný
 fleeing,utekajúci
 flatteringly,lichotivo
-flappy,flappy
 flails,cepy
 flagged,príznakom
-fkn,fkn
 fits,záchvaty
 firstclass,prvá trieda
 finalfantasy,konečná predstava
@@ -5416,15 +4941,11 @@ fieldfares,čvíkotavý
 field,lúka
 fiction,beletrie
 fertility,plodnosť
-ferguson,ferguson
 feed,krmivo
 fear,strach
 favorites,obľúbené
-favo,favo
 fatter,hrubšie
-farmington,farmington
 farming,poľnohospodárstva
-fao,fao
 fantasies,fantázie
 families,rodiny
 fakes,falzifikáty
@@ -5438,7 +4959,6 @@ expelled,vylúčený
 expectations,očakávania
 expands,expanduje
 existing,existujúci
-exeter,exeter
 exciting,vzrušujúce
 exchanges,výmeny
 excerpt,výňatok
@@ -5450,7 +4970,6 @@ estate,majetok
 essays,eseje
 erupt,vybuchnúť
 error,chyba
-eric,eric
 entries,záznamy
 entrepreneurship,podnikanie
 entertainment,zábava
@@ -5464,7 +4983,6 @@ enforcer,vymáhača
 enforcement,vynútenie
 employer,zamestnávateľ
 employees,zamestnanci
-emmy,emmy
 emblem,symbol
 electricitybill,účet za elektrinu
 elbow,lakeť
@@ -5472,10 +4990,7 @@ elastic,elastický
 efforts,úsilie
 effect,efekt
 educated,vzdelaný
-edt,edt
-edie,edie
 economic,ekonomický
-ebs,ebs
 eagles,orli
 dye,farbivo
 dupes,napalm

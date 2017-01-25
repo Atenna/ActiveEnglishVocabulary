@@ -66,6 +66,18 @@ mMenuBar.add_cascade(label="Learn", menu=mLearnMenu)
 mMenuBar.add_cascade(label="About", menu=mAboutMenu)
 
 ### Table setup ###
+class Table:
+
+    def __init__(self, word_tag):
+        words = self.loadWords(word_tag)
+
+    def loadWords(self, word_tag):
+        file = open(word_tag+".txt", "r");
+        words = {}
+        for line in file:
+            pair = line.split(',')
+            words[pair[0]] = pair[1]
+
 
 # Create treeview with sample data
 tTable = ttk.Treeview(fAboutFrame)
